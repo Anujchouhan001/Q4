@@ -1,0 +1,4 @@
+# ignore tar.gz backups
+*.tar.gz
+# ignore other backup files (optional)
+*.bak
